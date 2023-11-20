@@ -2,7 +2,7 @@ import datetime as dt
 
 
 class Calculator:
-    print("memes")
+    print("memes2")
 
 
 class Record:
